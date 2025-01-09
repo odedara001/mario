@@ -85,15 +85,15 @@ function updateGame(){
 
     
 
-    // drawMarioImg()
-    // drawVillanoImg(villan_1)
-    // drawVillanoImg(villan_2)
-    // drawVillanoImg(villan_3)
+    drawMarioImg()
+    drawVillanoImg(villan_1)
+    drawVillanoImg(villan_2)
+    drawVillanoImg(villan_3)
 
-    draw(mario)
-    draw(villan_1)
-    draw(villan_2)
-    draw(villan_3)
+    // draw(mario)
+    // draw(villan_1)
+    // draw(villan_2)
+    // draw(villan_3)
 
     b = checkGameOver()
 
