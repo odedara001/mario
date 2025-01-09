@@ -1,0 +1,18 @@
+#game-box {
+    /* width:1000px;
+    height:500px; */
+    border: 2px solid black;
+}
+#new-game {
+    /* visibility: hidden; */
+    font-size: 20px; 
+   
+}
+#new-level {
+    font-size: 20px; 
+}
+
+svg {
+    width: 100%; /* or any valid length */
+    height: auto; /* or any valid length */
+}
